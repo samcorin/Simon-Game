@@ -1,26 +1,26 @@
-.body,
+body,
 html {
     margin: 0;
     padding: 0;
     background-color: #F2F2F2;
 }
 
-.clickable{
-  pointer-events : auto;
-  cursor:pointer;
+.clickable {
+    pointer-events: auto;
+    cursor: pointer;
 }
 
-.unclickable{
-  pointer-events:none;
+.unclickable {
+    pointer-events: none;
 }
 
 .center-fix p {
-	font-size: 2em;
-	position: absolute;
-	margin: auto;
-	top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+    font-size: 2em;
+    position: absolute;
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
 
 .main {
@@ -53,12 +53,11 @@ html {
 }
 
 .start:active {
-  background-color: #FCFCFC;
+    background-color: #FCFCFC;
 }
 
 .buttons {
     float: left;
-    /*position: relative;*/
     margin: 2.5%;
     display: inline-block;
     width: 45%;
@@ -78,7 +77,7 @@ html {
 }
 
 #bl {
-    background-color : #EBE000;
+    background-color: #EBE000;
     border-bottom-left-radius: 190px;
 }
 
@@ -88,18 +87,17 @@ html {
 }
 
 #tl.light {
-	background-color: #5CFF37;
+    background-color: #5CFF37;
 }
 
 #tr.light {
-	background-color: #FF3000;
-
+    background-color: #FF3000;
 }
 
 #bl.light {
-	background-color : #FCFF00;
+    background-color: #FCFF00;
 }
 
 #br.light {
-	background-color: #009EFF;
+    background-color: #009EFF;
 }
