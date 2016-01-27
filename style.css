@@ -5,6 +5,23 @@ html {
     background-color: #F2F2F2;
 }
 
+.sidebar {
+    margin: 20px;
+}
+
+.progress {
+    margin-top: 0;
+    display: inline-block;
+    font-size: 1.3em;
+}
+
+.score {
+    clear: right;
+    /*display: inline-block;*/
+    font-size: 2em;
+    margin-bottom: 10px;
+}
+
 .clickable {
     pointer-events: auto;
     cursor: pointer;
