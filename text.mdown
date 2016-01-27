@@ -1,0 +1,17 @@
+give comments when the player successfully clears a round
+
+like words jumpin at 
+
+Jan27
+What do we want to happen
+
+
+on each click, the corresponding sound has to be played. for both pc and player
+
+I'm overloading the div element with stuff, there is probably a better way of doing this in js
+
+long way of doing it, explicitly define each audio
+
+
+
+game speeds up incrementally on the 5th, 9th and 13th step.
